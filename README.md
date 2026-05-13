@@ -13,7 +13,7 @@ To write a python program to perform stop and wait protocol
 / Developed by: Aniruth S
 / Register No: 212225040020
 ```
-Server side:
+**Server side:**
 ```python
 import socket
 
@@ -35,7 +35,7 @@ while True:
 
 conn.close()
 ```
-Client Side:
+**Client Side:**
 ```python
 import socket
 
@@ -54,6 +54,8 @@ for i in range(n):
 s.close()
 ```
 ## OUTPUT
+**Client and Server Side:**
+<img width="1097" height="363" alt="image" src="https://github.com/user-attachments/assets/3e4e5658-7e8f-4322-afdf-494f66b51b11" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
